@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Flag
+  - Car
+  - Fuel
+  - GameMaster
+  - Crate
+  - TopOfCar
+  - SavedData
+  - GameOverScreen
+  - Map
+  - CarTag
+  - Front
+  - Head
+  - Garage
+  - car
+  - fire
+  - SecondCar
+  - DeployHere
+  - FirstMapButton
+  - SecondMapButton
+  - ThirdMapButton
+  - FirstMapBuy
+  - LevelCompletePanel
+  - switch
+  - coinSound
+  - PetrolSound
+  - ExplosionSound
+  - AudioSource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
